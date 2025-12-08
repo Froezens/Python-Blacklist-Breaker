@@ -1,0 +1,4 @@
+sympy
+colorama
+cryptography
+requests
